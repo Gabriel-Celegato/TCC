@@ -1,0 +1,19 @@
+# Ignorar arquivos sensíveis
+.env
+*.log
+*.sql
+*.bak
+.pem
+ca.pem
+
+# Ignorar pastas de cache
+cache/
+tmp/
+temp/
+
+# Ignorar uploads
+uploads/
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
